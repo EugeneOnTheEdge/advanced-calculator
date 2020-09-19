@@ -8,3 +8,5 @@ def divide(num1, num2):
 if __name__ == "__main__":
     n1 = input("Enter the first number: ")
     n2 = input("Enter the second number: ")
+
+print(divide(n1,n2))
