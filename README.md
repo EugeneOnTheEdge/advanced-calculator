@@ -3,6 +3,8 @@ This is what's next in the era of calculators. Advanced Calculator utilizes quan
 
 There are four branches including Master:
 
-    Master - Includes the prompt to ask a user for two numbers
+# Master
+Includes the prompt to ask a user for two numbers
 
-    Division - Includes a function to divide the two input numbers
+# Division
+Includes a function to divide the two input numbers
