@@ -5,7 +5,7 @@ def multiply(num1, num2):
     return sum([num1 for i in range(num2)])
 
 def divide(num1, num2):
-    answer = int(num1) / int(num2)
+    answer = int(num1) / int(num2) #returns num1 / num2
     return  int(answer)
 
 if __name__ == "__main__":
