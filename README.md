@@ -8,3 +8,6 @@ Includes the prompt to ask a user for two numbers
 
 # Division
 Includes a function to divide the two input numbers
+
+# Exponent
+Call exponent by exponent(num1, num2) to recieve num1^num2
