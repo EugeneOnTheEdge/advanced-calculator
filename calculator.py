@@ -5,8 +5,8 @@ def multiply(num1, num2):
     return sum([num1 for i in range(num2)])
 
 def divide(num1, num2):
-    answer = int(num1) / int(num2) #returns num1 / num2
-    return  int(answer)
+    answer = int(num1) * 1.0 / int(num2) #returns num1 / num2
+    return answer
 
 if __name__ == "__main__":
     n1 = int(input("Enter the first number: "))
